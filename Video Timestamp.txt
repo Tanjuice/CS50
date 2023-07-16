@@ -4,5 +4,8 @@ Watched up until:
 
 5:44:37
 
+7:56:07
+(May have to redo students.csv module as broken)
+
 "Harvard CS50's Introduction to programming with python - Full university course."
 Youtube:  freecodecamp.org
