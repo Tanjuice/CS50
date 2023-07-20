@@ -9,6 +9,8 @@ Watched up until:
 8:32:30
 ---
 10:17:02 
+---
+12:30:00
 
 "Harvard CS50's Introduction to programming with python - Full university course."
 Youtube:  freecodecamp.org
