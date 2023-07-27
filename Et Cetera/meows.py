@@ -1,11 +1,7 @@
-class Cat:
-    MEOWS = 3
-
-    def meow(self):
-        for _ in range(Cat.MEOWS):
-            print("Meow")
+def meow(n: int):
+    for _ in range(n):
+        print("meow")
 
 
-cat = Cat
-
-cat.meow(1)
+number: int = int(input("Number: "))
+meow(number)
